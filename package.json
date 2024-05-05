@@ -1,6 +1,6 @@
 {
   "name": "ryslikbybysik20",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "demonstrayionStudy",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "trukytnuk": "1.0.0",
     "galetska222": "1.0.1",
     "smetanka": "1.0.2",
-    "morvunka228": "1.0.3"
+    "morvunka228": "1.0.3",
+    "podoliak2020": "1.0.8"
     },
   "author": "",
   "license": "ISC",
